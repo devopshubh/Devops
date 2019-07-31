@@ -10,3 +10,7 @@ presenting second commit
 we will write new messages 
 
 
+lets add new comments to new branch 
+then we will try to merge it 
+
+
