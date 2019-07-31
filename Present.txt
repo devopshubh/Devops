@@ -3,3 +3,10 @@ for testing
 will check the commits
 will check the lines
 will check the erros 
+
+
+now the test is completed 
+presenting second commit 
+we will write new messages 
+
+
